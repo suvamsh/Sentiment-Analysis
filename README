@@ -1,7 +1,29 @@
+Relations between Twitter and Stocks
+By Suvamsh Shivaprasad
+ssuvamsh@gmail.com
+
 Description:
 - Collected large twitter datasets from live feed and applied noise reduction algorithms
 - Using sentiment analysis predicted stock fluctuations for four major technology companies
 - Visualized sentiment growth versus real time stock growth
 
 Usage:
-Coming Soon...
+This project must be run on the Longhorn Supercomputer at Texas Advanced Computing Center using the visualizaiton portal for easiest compile and run.
+
+1. Load the following modules
+	
+	module load qt/4.7.0 python/2.7.1-epd paraview
+
+2. Run with the following command:
+
+	vglrun python main.py
+
+3. Google, Apple and Microsoft Stock data: Will show an animated graph of their stock since IPO.
+
+4. Sentiment Analysis: Will display a graph of the growth of sentiment over time per company based on tweet analysis.
+
+5. Compute Word Cloud: Can be used to compute the word cloud for the given twitter dataset.
+/****** WARNING THIS WILL TAKE >5 HOURS ON LONGHORN *******/
+Hence I have provided precomputed word cloud images
+
+6. Use Display Word Cloud to view the precomputed word clouds for all three companies.
