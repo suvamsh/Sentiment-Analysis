@@ -1,0 +1,573 @@
+COMS 3Comm Corp 
+KDE 4 Kids Entertainment Inc. 
+SVNX 724 Solutions Inc. 
+ABT Abbott Laboratories 
+ANF Abercrombie & Fitch Co. 
+ABGX Abgenix Inc. 
+ADPT Adaptec Inc 
+ADBE Adobe Systems Inc. 
+ADIC Advanced Digital Information 
+AMD Advanced Micro Devices 
+ADVS Advent Software Inc. 
+ARXX Aeroflex Inc. 
+AES AES Corp 
+AET Aetna Inc. 
+AFFX Affymetrix Inc. 
+AFL AFLAC Inc 
+A Agilent Technologies Inc. 
+APD Air Products & Chem 
+AKAM Akamai Technologies Inc. 
+ACV Alberto-Culver Cl'B' 
+ABS Albertson's, Inc 
+AL Alcan Aluminium Ltd 
+AA Alcoa Inc. 
+ATI Allegheny Technologies 
+AGN Allergan, Inc 
+AW Allied Waste Ind 
+ALL Allstate Corp 
+AT Alltel Corp 
+ALTR Altera Corp 
+AMZN Amazon.com Inc. 
+AEP Amer Electric Pwr 
+AM Amer Greetings Cl'A' 
+AIG Amer Intl Group 
+APCC Amer Power Conversion 
+AHC Amerada Hess 
+AEE Ameren Corp 
+AEOS American Eagle Outfitters Inc. 
+AXP American Express Company 
+AMTD Ameritrade Holding Corp. 
+AMGN Amgen Inc 
+AMR AMR Corp 
+ASO AmSouth Bancorp 
+APC Anadarko Petroleum 
+ADI Analog Devices Inc. 
+ANDW Andrew Corp 
+ADRX Andrx Corporation 
+BUD Anheuser-Busch Cos 
+TWX AOL Time Warner 
+AOC Aon Corp 
+APA Apache Corp 
+AAPL Apple Computer Inc. 
+APPB Applebees International Inc. 
+AMAT Applied Materials Inc. 
+AMCC Applied Micro Circuits Corp 
+ADM Archer-Daniels-Midland 
+ARIA Ariad Pharmaceuticals Inc. 
+ARBA Ariba Inc. 
+ARW Arrow Electronics Inc. 
+ASH Ashland Inc 
+ASKJ Ask Jeeves Inc. 
+T AT&T Corp 
+AWE AT&T Wireless Corp 
+ADSK Autodesk, Inc 
+ADP Automatic Data Proc 
+AZO AutoZone Inc 
+AVY Avery Dennison Corp 
+AVA Avista Corp 
+AVP Avon Products Inc. 
+BHI Baker Hughes Inc 
+BLL Ball Corp 
+BAC Bank of America 
+BK Bank of New York Inc. 
+ONE Bank One Corp 
+BCR Bard (C.R.) 
+BKS Barnes & Noble Inc. 
+ABX Barrick Gold 
+BOL Bausch & Lomb Inc. 
+BAX Baxter International 
+BBT BB&T Corp 
+BCE BCE Inc. 
+BEAS BEA Systems Inc. 
+BSC Bear Stearns Cos 
+BDX Becton, Dickinson 
+BBBY Bed Bath & Beyond Inc. 
+BLS BellSouth Corp 
+BMS Bemis Co 
+BBY Best Buy Co. Inc 
+BLI Big Lots Inc. 
+BMET Biomet, Inc 
+BBH Biotch Holders Trust 
+BDK Black & Decker Corp 
+HRB Block H & R Inc. 
+BBI Blockbuster Inc. 
+BMC BMC Software 
+BA Boeing Co. 
+BCC Boise Cascade 
+BSX Boston Scientific 
+BP BP Plc 
+BGG Briggs & Stratton 
+BMY Bristol-Myers Squibb 
+BSY British Sky Broadcasting 
+BTY British Telecommunications 
+BRCM Broadcom Corp'A' 
+BRCD Brocade Comm. Systems 
+BC Brunswick Corp 
+BNI Burlington Northn Santa Fe 
+BR Burlington Resources 
+CPN Calpine Corp 
+CPB Campbell Soup Co. 
+COF Capital One Financial 
+CAH Cardinal Health 
+CCL Carnival Corp 
+CAT Caterpillar Inc. 
+CRA Celera Genomics 
+CELG Celgene Corporation 
+CD Cendant Corp 
+CTX Centex Corp 
+CTL CenturyTel Inc 
+CEN Ceridian Corp 
+CF Charter One Finl 
+CHKP Checkpoint Software 
+CVX ChevronTexaco Corp 
+CHL China Telecommunications 
+CHINA China.com Corp 
+CHIR Chiron Corp 
+CB Chubb Corp 
+CI CIGNA Corp 
+CINF Cincinnati Financial 
+CIN CINergy Corp 
+CC Circuit City Strs-CrctCtyGrp 
+CSCO Cisco Systems Inc. 
+C Citigroup Inc. CTXS Citrix Systems Inc. 
+CCU Clear Channel Comm. 
+CLX Clorox Co. 
+CMGI CMG Information Services Inc. 
+CMS CMS Energy 
+CNET CNET Inc. 
+COKE Coca-Cola Bottling Co. 
+KO Coca-Cola Co 
+CCE Coca-Cola Enterprises 
+CL Colgate-Palmolive Co. 
+CMCSK Comcast Cl'A'Spl(non-vtg) 
+CMA Comerica Inc 
+CMRC Commerce One Inc. 
+CA Computer Assoc Intl 
+CSC Computer Sciences 
+CPWR Compuware Corp 
+CMVT Comverse Technology 
+CAG ConAgra Inc 
+ED Consolidated Edison 
+CEG Constellation Energy Group 
+CAL Continental Airlines 
+CVG Convergys Corp 
+CBE Cooper Indus 
+CTB Cooper Tire & Rubber 
+RKY Coors (Adolph)Cl'B' 
+GLW Corning Inc. 
+COST Costco Wholesale 
+COX Cox Communications Inc. 
+CR Crane Co 
+CREE Cree Research Inc. 
+CCK Crown Cork & Seal 
+CSX CSX Corp 
+CRGN Curagen Corp 
+CVS CVS Corporation 
+CYTO Cytogen Corp 
+DCX Daimler Benz & Chrysler 
+DCN Dana Corp 
+DHR Danaher Corp 
+DRI Darden Restaurants 
+DE Deere & Co. 
+DELL Dell Computer Corp 
+DPH Delphi Automotive Systems 
+DAL Delta Air Lines Inc. 
+DEL Deltic Timber Corp. 
+DLX Deluxe Corp 
+DIA Diamonds Trust 
+DDS Dillard's Inc'A' 
+DIS Disney Walt Co. 
+DVSA Diversa Corp 
+DG Dollar General 
+DLTR Dollar Tree Stores Inc. 
+D Dominion Resources 
+DCLK Doubleclick Inc. 
+DOV Dover Corp 
+DOW Dow Chemical Co. 
+DJ Dow Jones Company Inc. 
+DRYR Dreyers Grand Ice Cream Inc. 
+DTE DTE Energy 
+DUK Duke Energy Corporation 
+DNB Dun & Bradstreet 
+DD DuPont de Nemours EI & Co. 
+DPMI DuPont Photomasks Inc. 
+ELNK Earthlink Network Inc. 
+EMN Eastman Chemical 
+EK Eastman Kodak Co. 
+ETN Eaton Corp 
+EBAY Ebay Inc. 
+ELON Echelon Corp. 
+DISH Echostar Communications 
+ECL Ecolab Inc 
+EIX Edison Intl 
+ERTS Electronic Arts Inc. 
+EDS Electronic Data Systems 
+EMC EMC Corporation 
+EMR Emerson Electric 
+EC Engelhard Corp 
+ETR Entergy Corp 
+ENZ Enzo Biochem Inc. 
+EFX Equifax Inc 
+ERICY Ericsson Telephone Company 
+ET E-Trade Group Inc. 
+XOM Exxon Mobil Corporation 
+FRE Federal Home Loan 
+FNM Federal Natl Mtge 
+FD Federated Dept Stores 
+FDX FedEx Corp 
+FITB Fifth Third Bancorp 
+FDC First Data 
+FE FirstEnergy Corp 
+FLEX Flextronics Intl. Ltd. 
+FLR Fluor Corp 
+FMC FMC Corp 
+F Ford Motor Co. 
+FO Fortune Brands 
+FOSL Fossil Inc. 
+FDRY Foundry Networks SE 
+FOX Fox Entertainment Group 
+FPL FPL Group Inc. 
+BEN Franklin Resources 
+FCX Freep't McMoRan Copper 
+FCEL FuelCell Energy Inc. 
+GCI Gannett Co 
+GPS Gap Inc. 
+GTW Gateway Inc 
+DNA Genentech 
+GM General Motors Corp 
+GD Genl Dynamics 
+GE Genl Electric 
+GIS Genl Mills 
+OSCI Genome Therapeutics Corp 
+GPC Genuine Parts 
+GP Georgia-Pacific (Ga-Pac Grp) 
+G Gillette Co. 
+GDW Golden West Finl 
+GR Goodrich (B.F.) 
+GT Goodyear Tire & Rubber Co. 
+GOOG Google, Inc. 
+GRA Grace (W.R.) & Co 
+GWW Grainger (W.W.) 
+GAP Great Atlantic & Pacific Tea 
+GLK Great Lakes Chemical 
+GES Guess ?, Inc. 
+GDT Guidant Corp 
+HAL Halliburton Co 
+HDI Harley-Davidson 
+HET Harrah's Entertainment 
+HIG Hartford Finl Svcs Gp 
+HAS Hasbro Inc. 
+HCA HCA-The Healthcare Co. 
+HLTH Healtheon Corp 
+HNZ Heinz H.J. Co. 
+HELX Helix Technology Inc. 
+HP Helmerich & Payne Inc. 
+HPC Hercules, Inc 
+HSY Hershey Foods Corp 
+HLT Hilton Hotels Corp 
+HD Home Depot Inc. 
+HMC Honda Motor Co. Ltd. 
+HON Honeywell Intl 
+HOTT Hot Topic Inc. 
+HGSI Human Genome Sciences 
+HUM Humana Inc 
+HBAN Huntington Bancshares 
+ITW Illinois Tool Works 
+RX IMS Health 
+N Inco Ltd 
+INCY Incyte Pharmaceuticals Inc. 
+INSP Infospace.com 
+INFY Infosys Tech Ltd. 
+IR Ingersoll-Rand 
+INTC Intel Corp 
+ICGE Internet Cap Group Inc. 
+IPG Interpublic Grp Cos 
+ISIL Intersil Holding Corp 
+INTL Inter-Tel Inc. 
+IBM Intl Bus. Machines 
+IFF Intl Flavors/Fragr 
+IP Intl Paper 
+INTU Intuit Inc. ITT ITT Industries 
+JBL Jabil Circuit Inc. 
+JKHY Jack Henry & Associates Inc. 
+JBX Jack in the Box Inc. 
+JP Jefferson-Pilot 
+JNJ Johnson & Johnson 
+JCI Johnson Controls 
+JNPR Juniper Networks Inc. 
+KBH Kaufman & Broad Home 
+KEI Keithley Instruments Inc. 
+K Kellogg Co. 
+KMG Kerr-McGee 
+KEY KeyCorp 
+KEYN Keynote Systems Inc. 
+KMB Kimberly-Clark 
+KLAC Kla-Tencor Corp. 
+KRI Knight-Ridder Inc 
+KSS Kohl's Corp 
+KKD Krispy Kreme Doughnuts Inc. 
+KR Kroger Co. 
+KSWS K-Swiss Inc. 
+KYO Kyocera Corp 
+LRCX Lam Research Corp 
+LEG Leggett & Platt 
+LEH Lehman Br Holdings 
+LXK Lexmark Intl'A' 
+LLY Lilly (Eli) 
+LNC Lincoln Natl Corp 
+LLTC Linear Technology Corp 
+LIZ Liz Claiborne Inc. 
+LMT Lockheed Martin Corp 
+LTR Loews Corp 
+LDG Longs Drug Stores 
+LPX Louisiana Pacific 
+LOW Lowe's Cos 
+HCR Manor Care 
+MAR Marriott Intl 'A' 
+MMC Marsh & McLennan 
+MSO Martha Stewart Living 
+MAS Masco Corp 
+MONE Matrixone Inc. 
+MAT Mattel, Inc 
+MXIM Maxim Integrated Products 
+MAY May Dept Stores 
+MYG Maytag Corporation 
+MBI MBIA Inc 
+KRB MBNA Corp 
+MDR McDermott Intl 
+MCD McDonalds Corp 
+MHP McGraw-Hill Companies 
+MCK McKesson HBOC 
+MEDX Medarex Inc. 
+MEDI Medimmune Inc. 
+MDT Medtronic, Inc 
+MEL Mellon Financial 
+MRK Merck & Co. Inc. 
+MERQ Mercury Interactive Corp 
+MDP Meredith Corp 
+MER Merrill, Lynch & Co. Inc. 
+MET MetLife Inc. 
+MGM Metro-Goldwyn-Mayer Inc. 
+MTG MGIC Investment 
+MGG MGM Grand Inc. 
+MU Micron Technology Inc. 
+MSFT Microsoft Corp 
+MSTR Microstrategy 
+MLNM Millenium Pharmaceuticals 
+MIL Millipore Corp 
+MMM Minnesota Min'g/Mfg 
+MOLX Molex Inc 
+JPM Morgan J.P. & Co. Inc. 
+MWD Morgan Stan Dean Witter 
+MOT Motorola, Inc 
+MYGN Myriad Genetics Inc. 
+QQQ Nasdaq-100 Trust 
+NCC Natl City Corp 
+NSM Natl Semiconductor 
+NAV Navistar Intl 
+NCR NCR Corp 
+NTAP Network Appliance Corp. 
+NYT New York Times Co. 
+NWL Newell Rubbermaid 
+NEM Newmont Mining 
+NEWP Newport Corp 
+NXTL NEXTEL Communic'ns'A' 
+NXTP Nextel Partners Inc. 
+GAS NICOR Inc 
+NKE NIKE, Inc Cl'B' 
+NIKU Niku Corp 
+NOK Nokia Crop 
+JWN Nordstrom, Inc 
+NSC Norfolk Southern 
+NTRS Northern Trust 
+NOC Northrop Grumman 
+NOVL Novell Inc. 
+NVLS Novellus Systems 
+NUE Nucor Corp 
+NVDA Nvidia Corp 
+OO Oakley Inc. 
+OXY Occidental Petrol'm 
+ODP Office Depot Inc. 
+OMC Omnicom Group 
+OKE ONEOK Inc 
+ONVI Onvia.com Inc. 
+ORCL Oracle Corporation 
+OSIS OSI Systems Inc. 
+OSI Outback Steakhouse Inc. 
+OI Owens-Illinois 
+PCAR PACCAR Inc 
+PSUN Pacific Sunwear of California Inc. 
+PTV Pactiv Corp 
+PLL Pall Corp 
+PZZA Papa Johns Intl. Inc. 
+PMTC Parametric Technology 
+PH Parker-Hannifin 
+PAYX Paychex Inc 
+PSS Payless Shoesource Inc. 
+CRA PE-Celera Genomics 
+JCP Penny J.C. Co. Inc. 
+PGL Peoples Energy 
+PSFT PeopleSoft Inc. 
+PBY Pep Boys Manny Moe & Jack 
+PBG Pepsi Bottling Group 
+PEP Pepsico Inc. 
+PKI PerkinElmer Inc 
+PFE Pfizer, Inc 
+PCG PG&E Corporation 
+PD Phelps Dodge Corp 
+MO Philip Morris Cos 
+PHG Philips Electronics Holding Co. 
+PNW Pinnacle West Capital 
+PBI Pitney Bowes 
+PIXR Pixar Inc. 
+PDG Placer Dome Inc 
+PLUG Plug Power Co. 
+PMCS PMC Sierra Inc. 
+PNC PNC Financial Services Group 
+RL Polo Ralph Lauren Corporation 
+PCH Potlatch Corp 
+PWAV Powerwave Technologies Inc. 
+PPG PPG Indus 
+PPL PPL Corp 
+PX Praxair Inc 
+PCLN Priceline.com Inc. 
+PG Procter & Gamble Co. 
+PGR Progressive Corp,Ohio 
+PDLI Protein Design Labs Inc. 
+PVN Providian Financial 
+PEG Public Svc Enterpr 
+PHM Pulte Corp 
+QGENF Qiagen 
+QLGC Qlogic Corp 
+QLTI QLT Phototherapeutics 
+QCOM Qualcomm Inc. 
+QSFT Quest Software Inc. 
+ZQK Quicksilver Inc. 
+RSH RadioShack Corp 
+RMBS Rambus Inc. 
+RTN Raytheon Co'B' RHAT Red Hat Inc. 
+RBK Reebok Intl 
+REGN Regeneron Pharmaceuticals 
+RCOM Register.com Inc. 
+RIMM Research in Motion Ltd. 
+RMD Resmed Inc. 
+RFMD RF Micro Devices Inc. 
+ROK Rockwell Intl 
+ROH Rohm & Haas 
+RDC Rowan Cos 
+RD Royal Dutch Petrol ADR 
+RML Russell Corp 
+R Ryder System 
+TSG SABRE Holdings'A' 
+SAFC SAFECO Corp 
+SWY Safeway Inc. 
+SLAB Sage Laboratories Inc. 
+SNDK Sandisk Corp 
+SANM Sanmina Corp 
+SAPE Sapient Corp 
+SLE Sara Lee Corp 
+SBC SBC Communications Inc. 
+SGP Schering-Plough 
+SLB Schlumberger Ltd 
+SCH Schwab(Charles)Corp 
+SFA Scientific-Atlanta 
+SEE Sealed Air 
+S Sears-Roebuck 
+SRE Sempra Energy 
+SC Shell Trans. & Trading Ltd. 
+SHW Sherwin-Williams 
+SEBL Siebel Systems Inc. 
+SIAL Sigma-Aldrich 
+SILI Siliconix Inc. 
+SKX Skechers USA Inc. 
+SLM SLM Holding 
+SNA Snap-On Inc 
+SNE Sony Corp 
+SO Southern Co 
+SOTR SouthTrust Corp 
+LUV Southwest Airlines Co. 
+FON Sprint Corp(FON Group) 
+STJ St. Jude Medical 
+SWK Stanley Works 
+SPLS Staples Inc. 
+SBUX Starbucks Corporation 
+STT State Street Corp 
+SUN Sunoco Inc 
+STI Suntrust Banks Inc. 
+SVU Supervalu Inc 
+SBL Symbol Technologies Inc. 
+SNV Synovus Financial 
+SYY Sysco Corp 
+TROW T.Rowe Price Assoc 
+TGT Target Corp 
+TEK Tektronix Inc 
+TLAB Tellabs, Inc 
+TIN Temple-Inland 
+THC Tenet Healthcare 
+TER Teradyne Inc 
+TXN Texas Instruments 
+TXT Textron, Inc 
+LTD The Limited Inc. 
+TMO Thermo Electron 
+TNB Thomas & Betts 
+TIBX Tibco Software 
+TIF Tiffany & Co. 
+TBL Timberland Co. 
+TKR Timken Co 
+TTN Titan Corp 
+TJX TJX Companies 
+TOM Tommy Hilfiger Corp 
+TMK Torchmark Corp 
+TM Toyota Motor Corp 
+TOY Toys R Us Inc. 
+RIG Transocean Sedco Forex 
+TRB Tribune Co. 
+YUM Tricon Global Restaurants Inc. 
+TUP Tupperware Corp 
+TXU TXU Corp 
+TYC Tyco Labs Inc. 
+USB U.S. Bancorp 
+UN Unilever N.V. 
+UNP Union Pacific 
+UPC Union Planters 
+UIS Unisys Corp 
+UPS United Parcel Services Inc. 
+USM United States Cellular Corp 
+UTX United Technologies Corp 
+UNH UnitedHealth Group 
+UVV Universal Corp. 
+UVN Univision Communications 
+UCL Unocal Corp 
+UNM UnumProvident Corp 
+UST UST Inc 
+MRO USX-Marathon Grp 
+X USX-U.S. Steel Group 
+UTSI Utstarcom Inc. 
+VANS Vans Inc. 
+VRSN Verisign Inc. 
+VZ Verizon Communications 
+VRTS Vertas Software Corp 
+VFC VF Corp 
+VIA Viacom Inc. 
+VC Visteon Corp 
+VOD Vodafone Group 
+VMC Vulcan Materials 
+WB Wachovia Corp 
+WAG Walgreen Company 
+WMT Wal-Mart Stores Inc. 
+WM Washington Mutual Inc. 
+WMI Waste Management 
+WPI Watson Pharmaceuticals 
+WLP Wellpoint Hlth Networks 
+WFC Wells Fargo & Company 
+WEN Wendy's Intl 
+WY Weyerhaeuser Co 
+WHR Whirlpool Corp 
+WMB Williams Cos 
+WOR Worthington Indus 
+WWY Wrigley, (Wm) Jr 
+WWE Wrld Wrestling Fed. Ent. 
+XRX Xerox Corporation 
+XLNX Xilinx Inc. 
+YHOO Yahoo Inc. 
+ZIGO Zygo Corp

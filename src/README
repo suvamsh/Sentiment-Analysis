@@ -1,0 +1,25 @@
+  1 SSC394E Final Project: Relations between Twitter and Stocks
+  2 By Suvamsh Shivaprasad
+  3 ssuvamsh@gmail.com
+  4 
+  5 Using the Longhorn Visualization portal:
+  6 
+  7 1. Load the following modules
+  8   
+  9   module load qt/4.7.0 python/2.7.1-epd paraview
+ 10 
+ 11 2. Run with the following command:
+ 12   
+ 13   vglrun python main.py
+ 14 
+ 15 3. Google, Apple and Microsoft Stock data: Will show an animated graph of their stock since IPO.
+ 16 
+ 17 4. Sentiment Analysis: Will display a graph of the growth of sentiment over time per company based on     tweet analysis.
+ 18 
+ 19 5. Compute Word Cloud: Can be used to compute the word cloud for the given twitter dataset.
+ 20 
+ 21 /****** WARNING THIS WILL TAKE >5 HOURS ON LONGHORN *******/
+ 22 
+ 23 Hence I have provided precomputed word cloud images
+ 24 
+ 25 6. Use Display Word Cloud to view the precomputed word clouds for all three companies.
