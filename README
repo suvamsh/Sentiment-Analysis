@@ -1,1 +1,7 @@
+Description:
+- Collected large twitter datasets from live feed and applied noise reduction algorithms
+- Using sentiment analysis predicted stock fluctuations for four major technology companies
+- Visualized sentiment growth versus real time stock growth
+
+Usage:
 Coming Soon...
